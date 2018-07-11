@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://app.ysyec.com:8080/app/download/YSPExplorer.ipa</string>
+					<string>http://120.79.151.141:8080/App/jc/download/RedcoreMobile.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -35,7 +35,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>¼Í´´²âÊÔ</string>
+				<string>Â¼ÃÂ´Â´Â²Ã¢ÃŠÃ”</string>
 			</dict>
 		</dict>
 	</array>
